@@ -20,12 +20,12 @@ Google app clone(ios styled) with websearch api and hive local database.
 - photo_view: ^0.12.0
 
 <p align="center">
-<img src="screenshots\Screenshot_20210925-151242.jpg" width="30%">
-<img src="screenshots\Screenshot_20210925-151249.jpg" width="30%">
-<img src="screenshots\Screenshot_20210925-151258.jpg" width="30%">
-<img src="screenshots\Screenshot_20210925-151304.jpg" width="30%">
-<img src="screenshots\Screenshot_20210925-151313.jpg" width="30%">
-<img src="screenshots\Screenshot_20210925-151330.jpg" width="30%">
+<img src="screenshots/Screenshot_20210925-151242.jpg" width="30%">
+<img src="screenshots/Screenshot_20210925-151249.jpg" width="30%">
+<img src="screenshots/Screenshot_20210925-151258.jpg" width="30%">
+<img src="screenshots/Screenshot_20210925-151304.jpg" width="30%">
+<img src="screenshots/Screenshot_20210925-151313.jpg" width="30%">
+<img src="screenshots/Screenshot_20210925-151330.jpg" width="30%">
 
 </p>
 
